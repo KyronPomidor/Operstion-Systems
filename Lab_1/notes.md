@@ -1,4 +1,4 @@
-# Lab 2 – notes (Kiril, FAF-24x)
+# Lab 2 - notes (Kiril Boboc, FAF-242)
 
 ## Part 2. Use xv6
 
