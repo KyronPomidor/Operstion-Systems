@@ -1,4 +1,4 @@
-# Lab 1 – The OS as a Resource Manager (Linux)
+# Lab 1 - The OS as a Resource Manager (Linux)
 
 **Student:** Kiril (FAF-24x) · **Machine:** macLab (Ubuntu VM, Linux 7.0.0-34-generic, aarch64)
 
