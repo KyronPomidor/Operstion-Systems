@@ -1,6 +1,6 @@
 # Lab 1 - The OS as a Resource Manager (Linux)
 
-**Student:** Kiril (FAF-24x) · **Machine:** macLab (Ubuntu VM, Linux 7.0.0-34-generic, aarch64)
+**Student:** Kiril Boboc (FAF-242) 
 
 ## Setup
 `whoami` → kiril; `uname -a` → Linux macLab 7.0.0-34-generic ... aarch64; `uptime` → up a few minutes, load average 0.15 0.10 0.04 (idle).
